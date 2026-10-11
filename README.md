@@ -2,6 +2,8 @@
 
 AI-powered forecasting system using LightGBM to predict daily sales and inventory requirements.
 
+**Case study — the problem, the models and the results: [www.harishg.com/works/stocksense-ai](https://www.harishg.com/works/stocksense-ai)**
+
 ## Architecture
 
 ```
